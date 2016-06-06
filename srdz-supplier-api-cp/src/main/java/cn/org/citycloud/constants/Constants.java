@@ -20,17 +20,6 @@ public class Constants
     public static final int MEMBER_STATE_CLOSED = 0;
     
     
-    // 订单状态：0(已取消)10(默认):未付款;20:已付款;30:已接单;40:已使用;50:已评价
-    public static final int ORDER_STATUS_CANCELD = 0;
-    
-    public static final int ORDER_STATUS_DEFAULT = 10;
-    
-    public static final int ORDER_STATUS_PAYED = 20;
-    
-    public static final int ORDER_STATUS_RECEIVED = 30;
-    
-    public static final int ORDER_STATUS_EVALUATED = 50;
-    
     // 订单类型: 1 商品类订单; 2 服务类订单
     public static final int ORDER_TYPE_GOODS = 1;
     
