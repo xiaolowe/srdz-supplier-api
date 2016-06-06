@@ -22,24 +22,6 @@
 // * @author lanbo
 // *
 // */
-//@RestController
-//@Api(value = "/todos",  description = "待办事宜的Restful APIs", consumes="application/json")
-//public class TodoController {
-//
-//	@Autowired
-//	private TodoDao todoDao;
-//
-//	/**
-//	 * 代办事宜列表
-//	 * 
-//	 * @return
-//	 */
-//	@RequestMapping(value = "/todos", method = RequestMethod.GET)
-//	@ApiOperation(value = "获取代办事宜列表", notes = "获取代办事宜列表", response = Todo.class, responseContainer = "List")
-//	public Object getTodos() {
-//		return todoDao.findAll();
-//	}
-//
 //	/**
 //	 * 获取单个待办事宜内容
 //	 * 
