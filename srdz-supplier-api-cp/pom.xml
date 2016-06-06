@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>srdz</groupId>
-	<artifactId>srdz-supplier-api</artifactId>
+	<artifactId>srdz-supplier-api-cp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>Srdz Api Maven Webapp</name>
@@ -323,7 +323,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>srdz-supplier-api</finalName>
+		<finalName>srdz-supplier-api-cp</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
